@@ -2,7 +2,7 @@
 
 Computer Science student at Governors State University (graduating May 2027) and full-stack web developer from Illinois. I'm president of the Software Engineering Club, and I'm open to new-grad software engineering roles.
 
-**[codebymendez.dev](https://codebymendez.dev)** · [LinkedIn](https://www.linkedin.com/in/marioomendez/) · [mendezmario2018@gmail.com](mailto:mendezmario2018@gmail.com)
+**[codebymendez.dev](https://codebymendez.dev)** · [Résumé](https://codebymendez.dev/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/marioomendez/) · [mendezmario2018@gmail.com](mailto:mendezmario2018@gmail.com)
 
 ## Things I've built
 
@@ -11,6 +11,11 @@ Computer Science student at Governors State University (graduating May 2027) and
 - **[Rreal Ink](https://rrealink-melo.onrender.com/)**: booking platform for a Chicago tattoo artist with request-first booking, magic-link sign-in, and automated reminders. *Python, Flask, PostgreSQL*
 
 See case studies for all of them at [codebymendez.dev/work](https://codebymendez.dev/work).
+
+## Experience
+
+- **Web Developer Intern, The Cancer Support Center** (Aug 2025 – May 2026): built website components with HTML, CSS, WordPress and Elementor, and planned the site's navigation around helping older visitors find key information within three clicks.
+- **Software Engineering Intern, OpenQQuantify** (Jun – Aug 2025): developed web interfaces and backend routes with Flask and Python for accessing signals, datasets and engineering tools.
 
 ## Right now
 
