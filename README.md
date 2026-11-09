@@ -22,4 +22,4 @@ See case studies for all of them at [codebymendez.dev/work](https://codebymendez
 
 <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,spring,postgres,supabase,git,linux,cloudflare" alt="Python, Java, JavaScript, HTML, CSS, Flask, Spring Boot, PostgreSQL, Supabase, Git, Linux, Cloudflare" />
 
-Outside of code, I love cars. 🏎️
+Outside of code, I love cars and trying new coffee shops. 🏎️ ☕
